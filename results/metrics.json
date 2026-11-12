@@ -1,0 +1,17 @@
+{
+    "test_accuracy": 0.9583333333333334,
+    "macro_precision": 0.963444517591983,
+    "macro_recall": 0.9583333333333334,
+    "macro_f1": 0.958036887898079,
+    "best_validation_accuracy": 0.9756944444444444,
+    "training_epochs": 5,
+    "classes": [
+        "crazing",
+        "inclusion",
+        "patches",
+        "pitted_surface",
+        "rolled-in_scale",
+        "scratches"
+    ],
+    "test_images": 360
+}
